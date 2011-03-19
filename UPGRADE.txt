@@ -115,7 +115,7 @@ Let's begin!
     custom or contributed theme, make sure it is compatible with your
     version of Drupal.
 
-      - For contributed themes, check http://drupal.org/project/themes
+     - For contributed themes, check http://drupal.org/project/themes
         for the version of a theme matching your version of Drupal.
 
       - For custom themes, review http://drupal.org/update/theme to ensure
